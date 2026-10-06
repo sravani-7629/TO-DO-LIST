@@ -1,0 +1,26 @@
+[
+    {
+        "id": "task_6aa19b8ed3e6e_7af9",
+        "title": "cd lab exam",
+        "description": "after 12 we write the exam at 10:30 AM",
+        "completed": true,
+        "created_at": "2026-09-09 19:46:54",
+        "completed_at": "2026-09-09 19:57:02"
+    },
+    {
+        "id": "task_6508a123f4b",
+        "title": "Welcome to My Tasks!",
+        "description": "This is a sample task. Click the checkbox to mark it complete, or click Delete to remove it.",
+        "completed": true,
+        "created_at": "2026-09-07 10:00:00",
+        "completed_at": "2026-09-09 19:57:06"
+    },
+    {
+        "id": "task_6508a123f4c",
+        "title": "Build PHP & JSON To-Do List",
+        "description": "Create a beginner-friendly web application with vanilla JavaScript AJAX and file-based data storage.",
+        "completed": true,
+        "created_at": "2026-09-07 09:30:00",
+        "completed_at": "2026-09-07 10:15:00"
+    }
+]
